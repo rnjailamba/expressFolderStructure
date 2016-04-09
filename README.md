@@ -30,13 +30,17 @@
 |   |         `-- setup.js  
 |   |    |-- Socket.js
 |   |-- public
-|   |-- javascripts
-|   |   |-- jquery.js
-|   |   |-- underscore.js
-|   |-- stylesheets
-|        `-- prettyPhoto.css  
+|   |   |-- javascripts
+|   |   |   |-- jquery.js
+|   |   |   |-- underscore.js
+|   |   |-- stylesheets
+|   |        `-- prettyPhoto.css  
+|   |-- app.js
+|   |-- all_modules.js
+
 ```
 
 ## Quick Start
   - npm install
   - npm start
+  - and go over to http://localhost:3000/ping

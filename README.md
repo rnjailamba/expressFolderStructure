@@ -1,4 +1,5 @@
 ## Folder Structure
+```
 |-- app
 |   |-- controllers
 |   |   |-- blog.js
@@ -34,6 +35,7 @@
 |   |   |-- underscore.js
 |   |-- stylesheets
 |        `-- prettyPhoto.css  
+```
 
 ## Quick Start
   - npm install
